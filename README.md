@@ -59,4 +59,3 @@ Who has more followers? Type 'A' or 'B':
 
 ## 👤 Author
 Made by **Chinmay Jain** ✨  
-Inspired by Angela Yu's "100 Days of Code: Python" course.
