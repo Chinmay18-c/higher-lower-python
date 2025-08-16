@@ -1,6 +1,6 @@
 # 🔼 Higher Lower Game 🔽
 
-A fun command-line game inspired by Angela Yu's Python Bootcamp.  
+A fun command-line game-
 The game compares the follower counts of famous people, and you have to guess who has more followers.  
 
 ---
